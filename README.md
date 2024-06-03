@@ -1,27 +1,43 @@
 ## Hi there 👋
 
-I'm a proficient Blockchain Developer specializing in crafting secure smart contracts for DeFi, NFT, and customized blockchains using Solidity. My expertise includes strategic planning and designing of various blockchain solutions. I possess comprehensive knowledge of:
+I'm a passionate blockchain developer with expertise in Cosmos and Tendermint, the foundational technologies for building interoperable blockchains. I'm proficient in Go and Rust, the primary languages used in the Cosmos ecosystem, and I'm always eager to contribute to innovative projects. I possess comprehensive knowledge of:
 
-- Solidity
+- Go and Rust
+- Cosmos SDk & Tendermint
 - Smart Contract Development
 - Blockchain Architecture
-- Automated Market Makers (AMMs)
 - DeFi Protocols
 - Cross-Chain Interoperability
 - Risk Management
 - Governance Systems
-- React.js
-- ethers.js
-- Web3.js
-- Redux
-- React Router
-- Subgraphs
-- Gelato
 - Tenderly
+- Metasleuth
+
+## Skills
+### Blockchain Development:
+Cosmos SDK, Tendermint Core, Inter-Blockchain Communication (IBC)
+### Programming Languages:
+Go, Rust
+### Distributed Systems:
+Consensus algorithms, Byzantine Fault Tolerance (BFT)
+### Version Control:
+Git
+### Testing:
+Unit testing, integration testing
 
 ## Experiences
 
 ### Blockchain
+- Designed and implemented a novel consensus protocol based on Tendermint and Cosmos-SDK for a high-throughput blockchain network.
+- Developed and optimized services and decentralized applications (DApps) on Ethereum and Cosmos-SDK, integrating complex business logic securely.
+- Leveraged the Cosmos SDK library for web3 development, ensuring seamless interaction with smart contracts and reliable data retrieval from the protocol.
+- ​​ERC1155 Implementation: Managed complex ERC1155 implementations, consolidating diverse assets within a single smart contract for enhanced versatility.
+- Token Adaptation with ERC20/ERC721: Enhanced platform capabilities through pluggable ERC20/ERC721 adapters, expanding token compatibility on cosmwasm and cosmos-sdk.
+- Integrated decentralized Oracle solutions for accurate pricing and real-time data feeds.
+- Optimized gas usage and scalability of smart contracts for high-frequency trading.
+- Developed functionalities for buying, selling, and auctioning assets within a marketplace.
+- Implemented secure escrow mechanisms for asset transactions.
+
 - Designed and optimized AMM (Automated Market Maker), demonstrating a deep understanding of liquidity pools, trading algorithms, and DEX dynamics.
 - Developed permissionless Perpetual DEXs with AMMs facilitating settlement of positions for buyers and sellers.
 - Enhanced Perpetual DEXs encompassing perpetual contracts, funding rates, and swaps.
@@ -33,30 +49,6 @@ I'm a proficient Blockchain Developer specializing in crafting secure smart cont
 - Deployed cross-chain governance systems using Layer-0 interoperability protocols.
 - Chains worked on: Binance, Polygon, Ethereum, opBNB, and Arbitrum.
 
-### Frontend
-- Developed responsive and interactive blockchain web applications using React.js.
-- Integrated frontend with Ethereum blockchain using ethers.js for interacting with smart contracts.
-- Created user-friendly interfaces for decentralized applications (dApps) focusing on DeFi protocols and NFT marketplaces.
-- Implemented blockchain-related features such as wallet connection, transaction monitoring, and contract interactions.
-- Utilized Web3.js to enable communication between frontend applications and the Ethereum blockchain.
-- Implemented routing and state management using React Router and Redux for scalable and maintainable applications.
-- Optimized performance for Dapps, ensuring smooth user experiences even under high transaction loads.
 
 ## Let's Connect!
-I'm passionate about blockchain technology and building innovative solutions. Connect with me on [LinkedIn](https://www.linkedin.com/in/nikhil-bajaj31/) for further discussions!
-
-
-<!--
-**obpool/obpool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about blockchain technology and building innovative solutions. Connect with me on [LinkedIn](https://www.linkedin.com/in/vivek-jain-04b9b42bb/) for further discussions!
