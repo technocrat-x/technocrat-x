@@ -35,4 +35,4 @@ Develop tools that allow users to search and interact with data on Cosmos-based 
 SKilled in facilitating seamless asset transfer across different blockchain ecosystems.
 
 ## Let's Connect!
-I'm passionate about blockchain technology and building innovative solutions. Connect with me on [LinkedIn](https://www.linkedin.com/in/vivek-jain-04b9b42bb/) for further discussions!
+I'm passionate about blockchain technology and building innovative solutions. Connect with me on [LinkedIn](https://www.google.com) for further discussions!
